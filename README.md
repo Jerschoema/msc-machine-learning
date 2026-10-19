@@ -19,6 +19,7 @@ It also includes the evidence of my contributions to the team assignment and the
 | `ML - Collaborative Discussion.docx` | Collaborative discussion 1 and 2. It includes all posts written by including the summary posts. |
 | `MovieRecommender/` | Individual project: biased matrix factorisation versus NeuMF on MovieLens 100K. Final presentation and transcript. |
 | `MovieRecommender_submission.zip` | Submitted code and notebook for the recommender project. |
-
+| `evidence_contributions_team_assignment` | Evidence of contributions to the team assignment. |
+| `Airbnb_Business_Analysis_Report_v5` | Final deliverable team assignment |
 
 
