@@ -21,5 +21,6 @@ It also includes the evidence of my contributions to the team assignment and the
 | `MovieRecommender_submission.zip` | Submitted code and notebook for the recommender project. |
 | `evidence_contributions_team_assignment` | Evidence of contributions to the team assignment. |
 | `Airbnb_Business_Analysis_Report_v5` | Final deliverable team assignment |
+| notebooks/. The five modelling notebooks behind sections 3 and 4 of the final report: baseline and extended clustering, price prediction models, segment level price and demand analysis, robustness checks. My part is in 02 (clusters on the availability bucket and stay regime features from the preprocessing pipeline) and 04 (I added minimum stay as a control to the pricing regressions, which 05 reuses in the robustness checks) |
 
 
